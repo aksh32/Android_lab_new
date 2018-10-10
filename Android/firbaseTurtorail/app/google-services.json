@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "496083919914",
+    "firebase_url": "https://firbaseturtorail.firebaseio.com",
+    "project_id": "firbaseturtorail",
+    "storage_bucket": "firbaseturtorail.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496083919914:android:3037c2022890d6e1",
+        "android_client_info": {
+          "package_name": "com.example.studentadmin.firbaseturtorail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496083919914-fkd491a2kfu85esslr2dk7ma28hid16m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.studentadmin.firbaseturtorail",
+            "certificate_hash": "e3ad24efb3c71a62278f194e7d119e911279ddfa"
+          }
+        },
+        {
+          "client_id": "496083919914-1d4au9t5rhnggfoe3j75d2nk9cbcjvu3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN5Ly-xA7GEHCly4jgvZTmlIbxP21JJn0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496083919914-1d4au9t5rhnggfoe3j75d2nk9cbcjvu3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
